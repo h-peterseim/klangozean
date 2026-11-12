@@ -34,7 +34,7 @@ Spokojna siatka w perspektywie jako tło strony. Reaguje na każdy dźwięk i wi
 
 Działa w aktualnych przeglądarkach Chrome, Edge i Firefox z WebGL. Bez WebGL dostajesz spokojny gradient, przy ograniczonym ruchu obraz statyczny.
 
-Klangozean działa jako tło strony [psorvia.io](https://psorvia.io). Strona demonstracyjna: **[GitHub Pages URL: zostanie dodany]**
+Klangozean działa jako tło strony [psorvia.io](https://psorvia.io). Strona demonstracyjna: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Własne kolory i własne źródło dźwięku
 

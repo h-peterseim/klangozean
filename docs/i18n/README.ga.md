@@ -34,7 +34,7 @@ Greille peirspictíochta chiúin mar chúlra leathanaigh. Freagraíonn sí d'aon
 
 Oibríonn sé i Chrome, Edge agus Firefox reatha le WebGL. Gan WebGL, gheobhaidh tú grádán ciúin; le gluaiseacht laghdaithe, íomhá statach.
 
-Feidhmíonn Klangozean mar chúlra de [psorvia.io](https://psorvia.io). Leathanach taispeána: **[GitHub Pages URL: le cur leis]**
+Feidhmíonn Klangozean mar chúlra de [psorvia.io](https://psorvia.io). Leathanach taispeána: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Dathanna agus foinse fuaime féin
 

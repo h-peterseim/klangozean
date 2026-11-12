@@ -34,7 +34,7 @@ Een rustig perspectiefraster als paginaachtergrond. Het reageert op alle audio e
 
 Werkt in actuele Chrome, Edge en Firefox met WebGL. Zonder WebGL krijg je een rustige kleurovergang, bij verminderde beweging een stilstaand beeld.
 
-Klangozean draait als achtergrond van [psorvia.io](https://psorvia.io). Demopagina: **[GitHub Pages URL: volgt]**
+Klangozean draait als achtergrond van [psorvia.io](https://psorvia.io). Demopagina: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Eigen kleuren en eigen audiobron
 

@@ -34,7 +34,7 @@ Klidná perspektivní mřížka jako pozadí stránky. Reaguje na každé audio 
 
 Funguje v aktuálním Chrome, Edge a Firefox s WebGL. Bez WebGL dostaneš klidný přechod, při omezeném pohybu statický obraz.
 
-Klangozean běží jako pozadí webu [psorvia.io](https://psorvia.io). Ukázková stránka: **[GitHub Pages URL: doplníme]**
+Klangozean běží jako pozadí webu [psorvia.io](https://psorvia.io). Ukázková stránka: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Vlastní barvy a vlastní zdroj zvuku
 

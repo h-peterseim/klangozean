@@ -34,7 +34,7 @@ Rauhallinen perspektiiviruudukko sivun taustana. Se reagoi sivun jokaiseen ään
 
 Toimii nykyisissä Chromessa, Edgessä ja Firefoxissa WebGL:n kanssa. Ilman WebGL:ää saat rauhallisen liukuvärin, vähennetyllä liikkeellä pysäytyskuvan.
 
-Klangozean toimii sivuston [psorvia.io](https://psorvia.io) taustana. Demosivu: **[GitHub Pages URL: lisätään]**
+Klangozean toimii sivuston [psorvia.io](https://psorvia.io) taustana. Demosivu: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Omat värit ja oma äänilähde
 

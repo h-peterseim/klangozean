@@ -34,7 +34,7 @@ Una calma griglia in prospettiva come sfondo della pagina. Reagisce a ogni audio
 
 Funziona nelle versioni attuali di Chrome, Edge e Firefox con WebGL. Senza WebGL ottieni una sfumatura tranquilla; con movimento ridotto, un'immagine fissa.
 
-Klangozean fa da sfondo a [psorvia.io](https://psorvia.io). Pagina demo: **[GitHub Pages URL: in arrivo]**
+Klangozean fa da sfondo a [psorvia.io](https://psorvia.io). Pagina demo: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Colori propri e sorgente audio propria
 

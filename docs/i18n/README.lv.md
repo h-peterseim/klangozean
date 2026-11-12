@@ -34,7 +34,7 @@ Mierīgs perspektīvas režģis kā lapas fons. Tas reaģē uz jebkuru lapas ska
 
 Darbojas pašreizējos Chrome, Edge un Firefox ar WebGL. Bez WebGL iegūsi mierīgu pāreju, ar samazinātu kustību nekustīgu attēlu.
 
-Klangozean darbojas kā vietnes [psorvia.io](https://psorvia.io) fons. Demonstrācijas lapa: **[GitHub Pages URL: tiks pievienots]**
+Klangozean darbojas kā vietnes [psorvia.io](https://psorvia.io) fons. Demonstrācijas lapa: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Savas krāsas un savs skaņas avots
 

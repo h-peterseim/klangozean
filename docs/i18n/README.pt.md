@@ -34,7 +34,7 @@ Uma grelha em perspetiva tranquila como fundo da página. Reage a qualquer áudi
 
 Funciona nas versões atuais de Chrome, Edge e Firefox com WebGL. Sem WebGL, recebes um gradiente calmo; com movimento reduzido, uma imagem fixa.
 
-O Klangozean funciona como fundo de [psorvia.io](https://psorvia.io). Página de demonstração: **[GitHub Pages URL: a adicionar]**
+O Klangozean funciona como fundo de [psorvia.io](https://psorvia.io). Página de demonstração: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Cores próprias e fonte de áudio própria
 

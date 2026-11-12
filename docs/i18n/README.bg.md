@@ -34,7 +34,7 @@
 
 Работи в актуални Chrome, Edge и Firefox с WebGL. Без WebGL получаваш спокоен градиент, при намалено движение - неподвижна картина.
 
-Klangozean работи като фон на [psorvia.io](https://psorvia.io). Демо страница: **[GitHub Pages URL: предстои]**
+Klangozean работи като фон на [psorvia.io](https://psorvia.io). Демо страница: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Собствени цветове и собствен аудиоизточник
 

@@ -34,7 +34,7 @@ Et roligt perspektivgitter som sidebaggrund. Det reagerer på al lyd og video p�
 
 Virker i nuværende Chrome, Edge og Firefox med WebGL. Uden WebGL får du en rolig overgang, ved reduceret bevægelse et stillbillede.
 
-Klangozean kører som baggrund på [psorvia.io](https://psorvia.io). Demoside: **[GitHub Pages URL: følger]**
+Klangozean kører som baggrund på [psorvia.io](https://psorvia.io). Demoside: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Egne farver og egen lydkilde
 

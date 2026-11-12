@@ -34,7 +34,7 @@ O grilă calmă în perspectivă ca fundal de pagină. Reacționează la orice s
 
 Funcționează în versiunile actuale de Chrome, Edge și Firefox cu WebGL. Fără WebGL primești un degrade calm; cu mișcare redusă, o imagine statică.
 
-Klangozean funcționează ca fundal pentru [psorvia.io](https://psorvia.io). Pagina demo: **[GitHub Pages URL: urmează]**
+Klangozean funcționează ca fundal pentru [psorvia.io](https://psorvia.io). Pagina demo: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Culori proprii și sursă audio proprie
 

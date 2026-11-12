@@ -34,7 +34,7 @@ Ein ruhiges Perspektivgitter als Seitenhintergrund. Es reagiert auf jedes Audio 
 
 Läuft in aktuellem Chrome, Edge und Firefox mit WebGL. Ohne WebGL gibt es einen ruhigen Verlauf, bei reduzierter Bewegung ein Standbild.
 
-Klangozean läuft als Hintergrund von [psorvia.io](https://psorvia.io). Demo-Seite: **[GitHub Pages URL: folgt]**
+Klangozean läuft als Hintergrund von [psorvia.io](https://psorvia.io). Demo-Seite: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Eigene Farben und eigene Audioquelle
 

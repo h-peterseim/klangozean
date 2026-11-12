@@ -34,7 +34,7 @@ Ett lugnt perspektivrutnät som sidbakgrund. Det reagerar på allt ljud och all 
 
 Fungerar i aktuella Chrome, Edge och Firefox med WebGL. Utan WebGL får du en lugn toning, vid reducerad rörelse en stillbild.
 
-Klangozean fungerar som bakgrund för [psorvia.io](https://psorvia.io). Demosida: **[GitHub Pages URL: följer]**
+Klangozean fungerar som bakgrund för [psorvia.io](https://psorvia.io). Demosida: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Egna färger och egen ljudkälla
 
