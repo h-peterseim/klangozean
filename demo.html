@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Klangozean</title>
+<style>
+:root{color-scheme:light dark;--bg:#f4f7f5;--fg:#12201a;--mut:#41564b;--ac:#0a6b38;--card:rgba(255,255,255,.72)}
+@media (prefers-color-scheme:dark){:root{--bg:#07100c;--fg:#e6f2ec;--mut:#9db5a9;--ac:#3ddc84;--card:rgba(7,16,12,.6)}}
+html,body{margin:0}
+body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,sans-serif}
+main{max-width:46rem;margin:0 auto;padding:6vh 16px 2rem}
+h1{font-size:2.4rem;margin:0 0 .3rem}
+h2{font-size:1.2rem;margin:2rem 0 .4rem}
+p{margin:.4rem 0}
+.mut{color:var(--mut)}
+.bar{display:flex;flex-wrap:wrap;gap:.7rem;align-items:center;margin:1.4rem 0}
+button,select{font:inherit;font-size:1rem;padding:.55rem 1rem;border-radius:.6rem;border:1px solid var(--ac);background:var(--card);color:var(--fg);cursor:pointer}
+button{background:var(--ac);color:var(--bg);font-weight:600}
+label{font-size:.9rem;color:var(--mut)}
+pre{background:var(--card);padding:.8rem 1rem;border-radius:.6rem;overflow-x:auto;font-size:.9rem}
+footer{max-width:46rem;margin:0 auto;padding:2rem 16px 3rem;font-size:.9rem;color:var(--mut)}
+a{color:var(--ac)}
+#res{font-size:.9rem;white-space:pre-wrap}
+</style>
+</head>
+<body>
+<klang-ozean></klang-ozean>
+<main>
+<h1>Klangozean</h1>
+<p id="tag" class="mut"></p>
+<p id="intro"></p>
+<div class="bar">
+<button id="go" type="button"></button>
+<button id="mu" type="button"></button>
+<label for="lg" id="lgl"></label><select id="lg"></select>
+</div>
+<p id="cap" class="mut"></p>
+<audio id="mus" preload="none" src="media/klangozean-demo.mp3"></audio>
+<h2 id="us"></h2>
+<pre>&lt;script src="klangozean.js"&gt;&lt;/script&gt;
+&lt;klang-ozean&gt;&lt;/klang-ozean&gt;</pre>
+</main>
+<footer><p><span id="cr"></span> &ndash; <a href="https://psorvia.io">psorvia.io</a></p>SPDX-License-Identifier: MIT &middot; Built for <a href="https://psorvia.io">psorvia.io</a>.<pre id="res" hidden></pre></footer>
+<script src="klangozean.js"></script>
+<script>
+(function(){
+var T={"en": {"name": "English", "tag": "Audio-reactive grid ocean for your website", "intro": "A calm perspective grid as page background. It reacts to any audio or video on the page and fades out behind your text.", "caption": "Press the button: a test beat moves the grid. Your own audio or video works the same way.", "start": "Start sound", "stop": "Stop sound", "lang": "Language", "usage": "Usage", "mstart": "Play music", "mstop": "Stop music", "credit": "Music played on PSOrvia plugins"}, "de": {"name": "Deutsch", "tag": "Audioreaktiver Gitter-Ozean für deine Website", "intro": "Ein ruhiges Perspektivgitter als Seitenhintergrund. Es reagiert auf jedes Audio und Video der Seite und blendet sich hinter deinem Text aus.", "caption": "Drück den Knopf: ein Testtakt bewegt das Gitter. Dein eigenes Audio oder Video wirkt genauso.", "start": "Ton starten", "stop": "Ton stoppen", "lang": "Sprache", "usage": "Einbindung", "mstart": "Musik abspielen", "mstop": "Musik stoppen", "credit": "Musik gespielt auf PSOrvia-Plugins"}, "bg": {"name": "Български", "tag": "Аудиореактивен мрежест океан за твоя сайт", "intro": "Спокойна перспективна мрежа като фон на страницата. Тя реагира на всяко аудио и видео на страницата и избледнява зад текста ти.", "caption": "Натисни бутона: тестов ритъм движи мрежата. Твоето аудио или видео действа по същия начин.", "start": "Пусни звука", "stop": "Спри звука", "lang": "Език", "usage": "Включване", "mstart": "Пусни музиката", "mstop": "Спри музиката", "credit": "Музика, изсвирена с приставки на PSOrvia"}, "cs": {"name": "Čeština", "tag": "Zvukově reagující mřížkový oceán pro tvůj web", "intro": "Klidná perspektivní mřížka jako pozadí stránky. Reaguje na každé audio i video na stránce a za tvým textem se ztlumí.", "caption": "Stiskni tlačítko: zkušební rytmus rozpohybuje mřížku. Tvé vlastní audio či video funguje stejně.", "start": "Spustit zvuk", "stop": "Zastavit zvuk", "lang": "Jazyk", "usage": "Vložení", "mstart": "Přehrát hudbu", "mstop": "Zastavit hudbu", "credit": "Hudba zahraná na pluginech PSOrvia"}, "da": {"name": "Dansk", "tag": "Lydreaktivt gitterhav til din hjemmeside", "intro": "Et roligt perspektivgitter som sidebaggrund. Det reagerer på al lyd og video på siden og toner ud bag din tekst.", "caption": "Tryk på knappen: en testrytme sætter gitteret i bevægelse. Din egen lyd eller video virker på samme måde.", "start": "Start lyd", "stop": "Stop lyd", "lang": "Sprog", "usage": "Indsættelse", "mstart": "Afspil musik", "mstop": "Stop musik", "credit": "Musik spillet på PSOrvia-plugins"}, "el": {"name": "Ελληνικά", "tag": "Ωκεανός πλέγματος με αντίδραση στον ήχο για τον ιστότοπό σου", "intro": "Ένα ήρεμο πλέγμα προοπτικής ως φόντο σελίδας. Αντιδρά σε κάθε ήχο και βίντεο της σελίδας και ξεθωριάζει πίσω από το κείμενό σου.", "caption": "Πάτα το κουμπί: ένας δοκιμαστικός ρυθμός κινεί το πλέγμα. Ο δικός σου ήχος ή βίντεο λειτουργεί το ίδιο.", "start": "Έναρξη ήχου", "stop": "Διακοπή ήχου", "lang": "Γλώσσα", "usage": "Ενσωμάτωση", "mstart": "Αναπαραγωγή μουσικής", "mstop": "Διακοπή μουσικής", "credit": "Μουσική που παίχτηκε με πρόσθετα PSOrvia"}, "es": {"name": "Español", "tag": "Océano de rejilla reactivo al audio para tu web", "intro": "Una rejilla en perspectiva tranquila como fondo de página. Reacciona a cualquier audio o vídeo de la página y se atenúa detrás de tu texto.", "caption": "Pulsa el botón: un ritmo de prueba mueve la rejilla. Tu propio audio o vídeo funciona igual.", "start": "Iniciar sonido", "stop": "Detener sonido", "lang": "Idioma", "usage": "Uso", "mstart": "Reproducir música", "mstop": "Detener música", "credit": "Música interpretada con plugins de PSOrvia"}, "et": {"name": "Eesti", "tag": "Heliga reageeriv ruudustikuookean sinu veebilehele", "intro": "Rahulik perspektiivruudustik lehe taustaks. See reageerib iga lehel oleva heli ja video peale ning hajub sinu teksti taga.", "caption": "Vajuta nuppu: proovirütm paneb ruudustiku liikuma. Sinu enda heli või video töötab samamoodi.", "start": "Käivita heli", "stop": "Peata heli", "lang": "Keel", "usage": "Kasutamine", "mstart": "Esita muusikat", "mstop": "Peata muusika", "credit": "Muusika esitatud PSOrvia pluginatega"}, "fi": {"name": "Suomi", "tag": "Äänelle reagoiva ruudukkomeri verkkosivullesi", "intro": "Rauhallinen perspektiiviruudukko sivun taustana. Se reagoi sivun jokaiseen ääneen ja videoon ja vaimenee tekstisi takana.", "caption": "Paina nappia: testirytmi liikuttaa ruudukkoa. Oma äänesi tai videosi toimii samoin.", "start": "Käynnistä ääni", "stop": "Pysäytä ääni", "lang": "Kieli", "usage": "Käyttö", "mstart": "Soita musiikkia", "mstop": "Pysäytä musiikki", "credit": "Musiikki soitettu PSOrvia-liitännäisillä"}, "fr": {"name": "Français", "tag": "Océan de grille réactif à l'audio pour ton site", "intro": "Une grille en perspective apaisante en arrière-plan de la page. Elle réagit à tout audio ou vidéo de la page et s'estompe derrière ton texte.", "caption": "Appuie sur le bouton : un rythme de test anime la grille. Ton propre audio ou ta vidéo fonctionne de la même façon.", "start": "Lancer le son", "stop": "Arrêter le son", "lang": "Langue", "usage": "Intégration", "mstart": "Lire la musique", "mstop": "Arrêter la musique", "credit": "Musique jouée avec des plugins PSOrvia"}, "ga": {"name": "Gaeilge", "tag": "Aigéan greille a fhreagraíonn don fhuaim do do shuíomh gréasáin", "intro": "Greille peirspictíochta chiúin mar chúlra leathanaigh. Freagraíonn sí d'aon fhuaim nó físeán ar an leathanach agus laghdaíonn sí taobh thiar de do théacs.", "caption": "Brúigh an cnaipe: gluaiseann buille tástála an ghreille. Oibríonn do chuid fuaime nó físeáin féin mar an gcéanna.", "start": "Tosaigh fuaim", "stop": "Stop fuaim", "lang": "Teanga", "usage": "Úsáid", "mstart": "Seinn ceol", "mstop": "Stop an ceol", "credit": "Ceol seinnte ar breiseáin PSOrvia"}, "hr": {"name": "Hrvatski", "tag": "Mrežasti ocean koji reagira na zvuk za tvoju web stranicu", "intro": "Mirna perspektivna mreža kao pozadina stranice. Reagira na svaki zvuk i video na stranici, a iza tvog teksta se stišava.", "caption": "Pritisni tipku: probni ritam pokreće mrežu. Tvoj vlastiti zvuk ili video radi jednako.", "start": "Pokreni zvuk", "stop": "Zaustavi zvuk", "lang": "Jezik", "usage": "Uključivanje", "mstart": "Pokreni glazbu", "mstop": "Zaustavi glazbu", "credit": "Glazba odsvirana na PSOrvia dodacima"}, "hu": {"name": "Magyar", "tag": "Hangra reagáló rácsóceán a weboldaladhoz", "intro": "Nyugodt perspektivikus rács oldalháttérként. Reagál az oldal minden hangjára és videójára, és a szöveged mögött elhalványul.", "caption": "Nyomd meg a gombot: egy próbaritmus mozgásba hozza a rácsot. A saját hangod vagy videód ugyanígy működik.", "start": "Hang indítása", "stop": "Hang leállítása", "lang": "Nyelv", "usage": "Beépítés", "mstart": "Zene lejátszása", "mstop": "Zene leállítása", "credit": "A zenét PSOrvia bővítmények játszották"}, "it": {"name": "Italiano", "tag": "Oceano a griglia reattivo all'audio per il tuo sito", "intro": "Una calma griglia in prospettiva come sfondo della pagina. Reagisce a ogni audio e video della pagina e si attenua dietro il tuo testo.", "caption": "Premi il pulsante: un ritmo di prova muove la griglia. Il tuo audio o video funziona allo stesso modo.", "start": "Avvia il suono", "stop": "Ferma il suono", "lang": "Lingua", "usage": "Utilizzo", "mstart": "Riproduci musica", "mstop": "Ferma la musica", "credit": "Musica suonata con i plugin PSOrvia"}, "lt": {"name": "Lietuvių", "tag": "Garsui jautrus tinklelio vandenynas tavo svetainei", "intro": "Rami perspektyvinė tinklelio gija puslapio fonui. Ji reaguoja į bet kokį puslapio garsą ir vaizdo įrašą, o už tavo teksto pritemsta.", "caption": "Paspausk mygtuką: bandomasis ritmas pajudina tinklelį. Tavo paties garsas ar vaizdo įrašas veikia taip pat.", "start": "Paleisti garsą", "stop": "Sustabdyti garsą", "lang": "Kalba", "usage": "Įtraukimas", "mstart": "Groti muziką", "mstop": "Sustabdyti muziką", "credit": "Muzika grota PSOrvia įskiepiais"}, "lv": {"name": "Latviešu", "tag": "Skaņai reaģējošs režģa okeāns tavai vietnei", "intro": "Mierīgs perspektīvas režģis kā lapas fons. Tas reaģē uz jebkuru lapas skaņu un video un aiz tava teksta izdziest.", "caption": "Nospied pogu: testa ritms iekustina režģi. Tava skaņa vai video darbojas tāpat.", "start": "Sākt skaņu", "stop": "Apturēt skaņu", "lang": "Valoda", "usage": "Iekļaušana", "mstart": "Atskaņot mūziku", "mstop": "Apturēt mūziku", "credit": "Mūzika atskaņota ar PSOrvia spraudņiem"}, "mt": {"name": "Malti", "tag": "Oċean tal-grilja li jirreaġixxi għall-awdjo għas-sit tiegħek", "intro": "Grilja kalma fil-perspettiva bħala sfond tal-paġna. Tirreaġixxi għal kull awdjo u vidjo tal-paġna u tisfuma wara t-test tiegħek.", "caption": "Agħfas il-buttuna: ritmu tal-prova jċaqlaq il-grilja. L-awdjo jew il-vidjo tiegħek jaħdem bl-istess mod.", "start": "Ibda l-ħoss", "stop": "Waqqaf il-ħoss", "lang": "Lingwa", "usage": "Użu", "mstart": "Ilgħab il-mużika", "mstop": "Waqqaf il-mużika", "credit": "Mużika mdoqqija bil-plugins PSOrvia"}, "nl": {"name": "Nederlands", "tag": "Audioreactieve rasteroceaan voor je website", "intro": "Een rustig perspectiefraster als paginaachtergrond. Het reageert op alle audio en video op de pagina en vervaagt achter je tekst.", "caption": "Druk op de knop: een testritme zet het raster in beweging. Je eigen audio of video werkt precies zo.", "start": "Geluid starten", "stop": "Geluid stoppen", "lang": "Taal", "usage": "Insluiten", "mstart": "Muziek afspelen", "mstop": "Muziek stoppen", "credit": "Muziek gespeeld op PSOrvia-plugins"}, "pl": {"name": "Polski", "tag": "Reagujący na dźwięk siatkowy ocean dla Twojej strony", "intro": "Spokojna siatka w perspektywie jako tło strony. Reaguje na każdy dźwięk i wideo na stronie, a za Twoim tekstem przygasa.", "caption": "Naciśnij przycisk: próbny rytm porusza siatkę. Twój własny dźwięk lub wideo działa tak samo.", "start": "Włącz dźwięk", "stop": "Zatrzymaj dźwięk", "lang": "Język", "usage": "Użycie", "mstart": "Odtwórz muzykę", "mstop": "Zatrzymaj muzykę", "credit": "Muzyka zagrana we wtyczkach PSOrvia"}, "pt": {"name": "Português", "tag": "Oceano de grelha reativo ao áudio para o teu site", "intro": "Uma grelha em perspetiva tranquila como fundo da página. Reage a qualquer áudio ou vídeo da página e esbate-se atrás do teu texto.", "caption": "Prime o botão: um ritmo de teste move a grelha. O teu próprio áudio ou vídeo funciona da mesma forma.", "start": "Iniciar som", "stop": "Parar som", "lang": "Idioma", "usage": "Utilização", "mstart": "Reproduzir música", "mstop": "Parar música", "credit": "Música tocada com plugins PSOrvia"}, "ro": {"name": "Română", "tag": "Ocean de grilă reactiv la sunet pentru site-ul tău", "intro": "O grilă calmă în perspectivă ca fundal de pagină. Reacționează la orice sunet și video din pagină și se estompează în spatele textului tău.", "caption": "Apasă butonul: un ritm de test mișcă grila. Sunetul sau videoul tău funcționează la fel.", "start": "Pornește sunetul", "stop": "Oprește sunetul", "lang": "Limbă", "usage": "Utilizare", "mstart": "Redă muzica", "mstop": "Oprește muzica", "credit": "Muzică cântată cu plugin-uri PSOrvia"}, "sk": {"name": "Slovenčina", "tag": "Zvukovo reagujúci mriežkový oceán pre tvoj web", "intro": "Pokojná perspektívna mriežka ako pozadie stránky. Reaguje na každý zvuk a video na stránke a za tvojím textom sa tlmí.", "caption": "Stlač tlačidlo: skúšobný rytmus rozhýbe mriežku. Tvoj vlastný zvuk či video funguje rovnako.", "start": "Spustiť zvuk", "stop": "Zastaviť zvuk", "lang": "Jazyk", "usage": "Vloženie", "mstart": "Prehrať hudbu", "mstop": "Zastaviť hudbu", "credit": "Hudba zahraná v zásuvných moduloch PSOrvia"}, "sl": {"name": "Slovenščina", "tag": "Mrežni ocean, ki se odziva na zvok, za tvojo spletno stran", "intro": "Mirna perspektivna mreža kot ozadje strani. Odziva se na vsak zvok in video na strani, za tvojim besedilom pa se zatemni.", "caption": "Pritisni gumb: preizkusni ritem premakne mrežo. Tvoj lastni zvok ali video deluje enako.", "start": "Zaženi zvok", "stop": "Ustavi zvok", "lang": "Jezik", "usage": "Vključitev", "mstart": "Predvajaj glasbo", "mstop": "Ustavi glasbo", "credit": "Glasba, odigrana z vtičniki PSOrvia"}, "sv": {"name": "Svenska", "tag": "Ljudreaktivt rutnätshav för din webbplats", "intro": "Ett lugnt perspektivrutnät som sidbakgrund. Det reagerar på allt ljud och all video på sidan och tonas ner bakom din text.", "caption": "Tryck på knappen: en testrytm sätter rutnätet i rörelse. Ditt eget ljud eller din video fungerar likadant.", "start": "Starta ljud", "stop": "Stoppa ljud", "lang": "Språk", "usage": "Inbyggnad", "mstart": "Spela musik", "mstop": "Stoppa musik", "credit": "Musik spelad på PSOrvia-plugins"}};
+var q=new URLSearchParams(location.search), oz=document.querySelector('klang-ozean');
+var sel=document.getElementById('lg'), go=document.getElementById('go'), mu=document.getElementById('mu'), mus=document.getElementById('mus'), on=false, mon=false;
+Object.keys(T).forEach(function(c){var o=document.createElement('option');o.value=c;o.textContent=T[c].name;sel.appendChild(o);});
+function pick(){var l=(q.get('lang')||navigator.language||'en').toLowerCase().split('-')[0];return T[l]?l:'en';}
+function ui(c){var t=T[c];document.documentElement.lang=c;sel.value=c;
+ document.getElementById('tag').textContent=t.tag;document.getElementById('intro').textContent=t.intro;
+ document.getElementById('cap').textContent=t.caption;document.getElementById('us').textContent=t.usage;
+ document.getElementById('lgl').textContent=t.lang;go.textContent=on?t.stop:t.start;
+ document.getElementById('cr').textContent=t.credit;mu.textContent=mon?t.mstop:t.mstart;}
+sel.addEventListener('change',function(){ui(sel.value);});
+ui(pick());
+// Test tone: bass, hi-hat and a soft chord via Web Audio, only after a click (autoplay rules)
+var ctx,an,timer,step=0,noise;
+function kick(t){var o=ctx.createOscillator(),g=ctx.createGain();o.frequency.setValueAtTime(130,t);o.frequency.exponentialRampToValueAtTime(42,t+.18);g.gain.setValueAtTime(.9,t);g.gain.exponentialRampToValueAtTime(.001,t+.35);o.connect(g);g.connect(an);o.start(t);o.stop(t+.4);}
+function hat(t){var s=ctx.createBufferSource(),g=ctx.createGain(),f=ctx.createBiquadFilter();s.buffer=noise;f.type='highpass';f.frequency.value=6000;g.gain.setValueAtTime(.25,t);g.gain.exponentialRampToValueAtTime(.001,t+.06);s.connect(f);f.connect(g);g.connect(an);s.start(t);s.stop(t+.08);}
+function chord(t){[220,277.2,329.6,440].forEach(function(fr){var o=ctx.createOscillator(),g=ctx.createGain();o.type='triangle';o.frequency.value=fr;g.gain.setValueAtTime(0,t);g.gain.linearRampToValueAtTime(.12,t+.1);g.gain.linearRampToValueAtTime(0,t+1.8);o.connect(g);g.connect(an);o.start(t);o.stop(t+2);});}
+function start(){
+ var AC=window.AudioContext||window.webkitAudioContext;if(!AC)return;
+ ctx=ctx||new AC();
+ if(!an){an=ctx.createAnalyser();an.fftSize=512;var m=ctx.createGain();m.gain.value=.5;an.connect(m);m.connect(ctx.destination);
+  noise=ctx.createBuffer(1,ctx.sampleRate*.1,ctx.sampleRate);var d=noise.getChannelData(0);for(var i=0;i<d.length;i++)d[i]=Math.random()*2-1;}
+ ctx.resume();oz.useAnalyser(an);var beat=60/112/2,next=ctx.currentTime+.05;step=0;
+ timer=setInterval(function(){while(next<ctx.currentTime+.25){if(step%4===0)kick(next);if(step%2===1)hat(next);if(step%16===0)chord(next);step++;next+=beat;}},80);
+ on=true;ui(sel.value);}
+function stop(){clearInterval(timer);oz.useAnalyser(null);if(ctx)ctx.suspend();on=false;ui(sel.value);}
+go.addEventListener('click',function(){if(!on&&mon)mus.pause();on?stop():start();});
+// Music: a plain audio element, Klangozean picks it up by itself; never autoplays, one source at a time
+mu.addEventListener('click',function(){if(mon){mus.pause();return;}if(on)stop();mus.currentTime=0;mus.play().catch(function(){});});
+mus.addEventListener('play',function(){mon=true;ui(sel.value);});
+['pause','ended'].forEach(function(e){mus.addEventListener(e,function(){mon=false;ui(sel.value);});});
+// Self-test (?selftest): collect errors, count pixels, result in #res
+if(q.has('selftest')){
+ var errs=[];window.addEventListener('error',function(e){errs.push(String(e.message));});
+ var ce=console.error;console.error=function(){errs.push([].join.call(arguments,' '));ce.apply(console,arguments);};
+ setTimeout(function(){
+  var r=document.getElementById('res');r.hidden=false;
+  var cv=oz.shadowRoot&&oz.shadowRoot.querySelector('canvas');
+  var gl=!!(oz.gl);
+  if(q.has('sim'))oz.simulate(true);
+  var raf0=oz.raf;oz.step(.05);
+  var n=0;
+  if(cv&&gl){var c2=document.createElement('canvas');c2.width=cv.width;c2.height=cv.height;var x=c2.getContext('2d');x.drawImage(cv,0,0);var px=x.getImageData(0,0,c2.width,c2.height).data;for(var i=3;i<px.length;i+=4)if(px[i]>8)n++;}
+  var fs=getComputedStyle(document.getElementById('intro')).fontSize;
+  r.textContent='webgl='+gl+'\npixels='+n+'\nanimating='+(raf0!==0)+'\nreduced='+matchMedia('(prefers-reduced-motion: reduce)').matches+'\nlang='+document.documentElement.lang+'\nfont='+fs+'\nerrors='+errs.length+(errs.length?' '+errs.join(' | '):'')+'\nDONE';
+ },800);
+}
+})();
+</script>
+</body>
+</html>
