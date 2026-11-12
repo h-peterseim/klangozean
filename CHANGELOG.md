@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+- Demo page: music by PSOrvia plugins only, test tone removed.
+- README: prominent link to the live demo, translations moved to `docs/i18n/`.
+
 ## 1.0.0
 - First release: web component `<klang-ozean>`, as ES module and classic script.
 - Attributes for colors, density, line width, opacity, reactivity, horizon, audio source, text fading and frame-rate limit.
