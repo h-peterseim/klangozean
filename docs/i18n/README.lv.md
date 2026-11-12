@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Skaņai reaģējošs režģa okeāns tavai vietnei**
+
+### ▶ [Tiešraides demo ar mūziku](https://h-peterseim.github.io/klangozean/demo.html)
 
 Mierīgs perspektīvas režģis kā lapas fons. Tas reaģē uz jebkuru lapas skaņu un video un aiz tava teksta izdziest.
 

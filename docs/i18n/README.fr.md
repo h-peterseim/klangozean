@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Océan de grille réactif à l'audio pour ton site**
+
+### ▶ [Démo en direct avec musique](https://h-peterseim.github.io/klangozean/demo.html)
 
 Une grille en perspective apaisante en arrière-plan de la page. Elle réagit à tout audio ou vidéo de la page et s'estompe derrière ton texte.
 

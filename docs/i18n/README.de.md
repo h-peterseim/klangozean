@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Audioreaktiver Gitter-Ozean für deine Website**
+
+### ▶ [Live-Demo mit Musik](https://h-peterseim.github.io/klangozean/demo.html)
 
 Ein ruhiges Perspektivgitter als Seitenhintergrund. Es reagiert auf jedes Audio und Video der Seite und blendet sich hinter deinem Text aus.
 

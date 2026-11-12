@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Ocean de grilă reactiv la sunet pentru site-ul tău**
+
+### ▶ [Demo live cu muzică](https://h-peterseim.github.io/klangozean/demo.html)
 
 O grilă calmă în perspectivă ca fundal de pagină. Reacționează la orice sunet și video din pagină și se estompează în spatele textului tău.
 

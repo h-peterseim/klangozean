@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Garsui jautrus tinklelio vandenynas tavo svetainei**
+
+### ▶ [Tiesioginė demonstracija su muzika](https://h-peterseim.github.io/klangozean/demo.html)
 
 Rami perspektyvinė tinklelio gija puslapio fonui. Ji reaguoja į bet kokį puslapio garsą ir vaizdo įrašą, o už tavo teksto pritemsta.
 

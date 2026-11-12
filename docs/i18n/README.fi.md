@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Äänelle reagoiva ruudukkomeri verkkosivullesi**
+
+### ▶ [Live-demo musiikin kanssa](https://h-peterseim.github.io/klangozean/demo.html)
 
 Rauhallinen perspektiiviruudukko sivun taustana. Se reagoi sivun jokaiseen ääneen ja videoon ja vaimenee tekstisi takana.
 

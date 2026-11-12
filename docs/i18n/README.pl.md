@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Reagujący na dźwięk siatkowy ocean dla Twojej strony**
+
+### ▶ [Demo na żywo z muzyką](https://h-peterseim.github.io/klangozean/demo.html)
 
 Spokojna siatka w perspektywie jako tło strony. Reaguje na każdy dźwięk i wideo na stronie, a za Twoim tekstem przygasa.
 

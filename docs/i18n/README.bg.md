@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Аудиореактивен мрежест океан за твоя сайт**
+
+### ▶ [Демо на живо с музика](https://h-peterseim.github.io/klangozean/demo.html)
 
 Спокойна перспективна мрежа като фон на страницата. Тя реагира на всяко аудио и видео на страницата и избледнява зад текста ти.
 

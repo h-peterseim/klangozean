@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Océano de rejilla reactivo al audio para tu web**
+
+### ▶ [Demo en vivo con música](https://h-peterseim.github.io/klangozean/demo.html)
 
 Una rejilla en perspectiva tranquila como fondo de página. Reacciona a cualquier audio o vídeo de la página y se atenúa detrás de tu texto.
 

@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Mrežasti ocean koji reagira na zvuk za tvoju web stranicu**
+
+### ▶ [Demo uživo s glazbom](https://h-peterseim.github.io/klangozean/demo.html)
 
 Mirna perspektivna mreža kao pozadina stranice. Reagira na svaki zvuk i video na stranici, a iza tvog teksta se stišava.
 

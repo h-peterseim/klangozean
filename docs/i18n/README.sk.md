@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Zvukovo reagujúci mriežkový oceán pre tvoj web**
+
+### ▶ [Živá ukážka s hudbou](https://h-peterseim.github.io/klangozean/demo.html)
 
 Pokojná perspektívna mriežka ako pozadie stránky. Reaguje na každý zvuk a video na stránke a za tvojím textom sa tlmí.
 

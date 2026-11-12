@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Ljudreaktivt rutnätshav för din webbplats**
+
+### ▶ [Livedemo med musik](https://h-peterseim.github.io/klangozean/demo.html)
 
 Ett lugnt perspektivrutnät som sidbakgrund. Det reagerar på allt ljud och all video på sidan och tonas ner bakom din text.
 

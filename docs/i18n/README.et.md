@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Heliga reageeriv ruudustikuookean sinu veebilehele**
+
+### ▶ [Otsedemo muusikaga](https://h-peterseim.github.io/klangozean/demo.html)
 
 Rahulik perspektiivruudustik lehe taustaks. See reageerib iga lehel oleva heli ja video peale ning hajub sinu teksti taga.
 

@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Oceano de grelha reativo ao áudio para o teu site**
+
+### ▶ [Demonstração ao vivo com música](https://h-peterseim.github.io/klangozean/demo.html)
 
 Uma grelha em perspetiva tranquila como fundo da página. Reage a qualquer áudio ou vídeo da página e esbate-se atrás do teu texto.
 

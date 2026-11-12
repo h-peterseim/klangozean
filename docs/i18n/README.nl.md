@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Audioreactieve rasteroceaan voor je website**
+
+### ▶ [Live demo met muziek](https://h-peterseim.github.io/klangozean/demo.html)
 
 Een rustig perspectiefraster als paginaachtergrond. Het reageert op alle audio en video op de pagina en vervaagt achter je tekst.
 

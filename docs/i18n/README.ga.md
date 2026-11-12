@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Aigéan greille a fhreagraíonn don fhuaim do do shuíomh gréasáin**
+
+### ▶ [Taispeántas beo le ceol](https://h-peterseim.github.io/klangozean/demo.html)
 
 Greille peirspictíochta chiúin mar chúlra leathanaigh. Freagraíonn sí d'aon fhuaim nó físeán ar an leathanach agus laghdaíonn sí taobh thiar de do théacs.
 

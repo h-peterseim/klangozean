@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Oċean tal-grilja li jirreaġixxi għall-awdjo għas-sit tiegħek**
+
+### ▶ [Demo diretta bil-mużika](https://h-peterseim.github.io/klangozean/demo.html)
 
 Grilja kalma fil-perspettiva bħala sfond tal-paġna. Tirreaġixxi għal kull awdjo u vidjo tal-paġna u tisfuma wara t-test tiegħek.
 

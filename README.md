@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](docs/preview.webp)
+[![Klangozean](docs/preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Audio-reactive grid ocean for your website**
+
+### ▶ [Live demo with music](https://h-peterseim.github.io/klangozean/demo.html)
 
 A calm perspective grid as page background. It reacts to any audio or video on the page and fades out behind your text.
 

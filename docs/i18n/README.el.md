@@ -1,8 +1,10 @@
 # Klangozean
 
-![Klangozean](../preview.webp)
+[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Ωκεανός πλέγματος με αντίδραση στον ήχο για τον ιστότοπό σου**
+
+### ▶ [Ζωντανή επίδειξη με μουσική](https://h-peterseim.github.io/klangozean/demo.html)
 
 Ένα ήρεμο πλέγμα προοπτικής ως φόντο σελίδας. Αντιδρά σε κάθε ήχο και βίντεο της σελίδας και ξεθωριάζει πίσω από το κείμενό σου.
 
