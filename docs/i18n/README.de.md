@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Audioreaktiver Gitter-Ozean für deine Website**
 
-### ▶ [Live-Demo mit Musik](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Live-Demo mit Musik](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Ein ruhiges Perspektivgitter als Seitenhintergrund. Es reagiert auf jedes Audio und Video der Seite und blendet sich hinter deinem Text aus.
 
@@ -36,7 +36,7 @@ Ein ruhiges Perspektivgitter als Seitenhintergrund. Es reagiert auf jedes Audio 
 
 Läuft in aktuellem Chrome, Edge und Firefox mit WebGL. Ohne WebGL gibt es einen ruhigen Verlauf, bei reduzierter Bewegung ein Standbild.
 
-PSOrvia Klangozean läuft als Hintergrund von [psorvia.io](https://psorvia.io). Demo-Seite: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean läuft als Hintergrund von [psorvia.io](https://psorvia.io). Demo-Seite: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Eigene Farben und eigene Audioquelle
 

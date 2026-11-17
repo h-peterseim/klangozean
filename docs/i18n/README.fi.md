@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Äänelle reagoiva ruudukkomeri verkkosivullesi**
 
-### ▶ [Live-demo musiikin kanssa](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Live-demo musiikin kanssa](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Rauhallinen perspektiiviruudukko sivun taustana. Se reagoi sivun jokaiseen ääneen ja videoon ja vaimenee tekstisi takana.
 
@@ -36,7 +36,7 @@ Rauhallinen perspektiiviruudukko sivun taustana. Se reagoi sivun jokaiseen ään
 
 Toimii nykyisissä Chromessa, Edgessä ja Firefoxissa WebGL:n kanssa. Ilman WebGL:ää saat rauhallisen liukuvärin, vähennetyllä liikkeellä pysäytyskuvan.
 
-PSOrvia Klangozean toimii sivuston [psorvia.io](https://psorvia.io) taustana. Demosivu: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean toimii sivuston [psorvia.io](https://psorvia.io) taustana. Demosivu: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Omat värit ja oma äänilähde
 

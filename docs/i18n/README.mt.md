@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Oċean tal-grilja li jirreaġixxi għall-awdjo għas-sit tiegħek**
 
-### ▶ [Demo diretta bil-mużika](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Demo diretta bil-mużika](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Grilja kalma fil-perspettiva bħala sfond tal-paġna. Tirreaġixxi għal kull awdjo u vidjo tal-paġna u tisfuma wara t-test tiegħek.
 
@@ -36,7 +36,7 @@ Grilja kalma fil-perspettiva bħala sfond tal-paġna. Tirreaġixxi għal kull aw
 
 Taħdem fl-aħħar verżjonijiet ta' Chrome, Edge u Firefox b'WebGL. Mingħajr WebGL tikseb gradjent kalm; b'moviment imnaqqas, stampa fissa.
 
-PSOrvia Klangozean jaħdem bħala sfond ta' [psorvia.io](https://psorvia.io). Paġna tad-demo: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean jaħdem bħala sfond ta' [psorvia.io](https://psorvia.io). Paġna tad-demo: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Kuluri tiegħek u sors tal-awdjo tiegħek
 

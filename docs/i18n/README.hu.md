@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Hangra reagáló rácsóceán a weboldaladhoz**
 
-### ▶ [Élő demó zenével](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Élő demó zenével](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Nyugodt perspektivikus rács oldalháttérként. Reagál az oldal minden hangjára és videójára, és a szöveged mögött elhalványul.
 
@@ -36,7 +36,7 @@ Nyugodt perspektivikus rács oldalháttérként. Reagál az oldal minden hangjá
 
 Működik az aktuális Chrome, Edge és Firefox böngészőkben WebGL-lel. WebGL nélkül nyugodt színátmenetet kapsz, csökkentett mozgásnál állóképet.
 
-A PSOrvia Klangozean a [psorvia.io](https://psorvia.io) háttereként fut. Demóoldal: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+A PSOrvia Klangozean a [psorvia.io](https://psorvia.io) háttereként fut. Demóoldal: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Saját színek és saját hangforrás
 

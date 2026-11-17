@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Ωκεανός πλέγματος με αντίδραση στον ήχο για τον ιστότοπό σου**
 
-### ▶ [Ζωντανή επίδειξη με μουσική](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Ζωντανή επίδειξη με μουσική](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Ένα ήρεμο πλέγμα προοπτικής ως φόντο σελίδας. Αντιδρά σε κάθε ήχο και βίντεο της σελίδας και ξεθωριάζει πίσω από το κείμενό σου.
 
@@ -36,7 +36,7 @@
 
 Λειτουργεί σε τρέχοντα Chrome, Edge και Firefox με WebGL. Χωρίς WebGL παίρνεις ήρεμη διαβάθμιση, με μειωμένη κίνηση στατική εικόνα.
 
-Το PSOrvia Klangozean λειτουργεί ως φόντο του [psorvia.io](https://psorvia.io). Σελίδα επίδειξης: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+Το PSOrvia Klangozean λειτουργεί ως φόντο του [psorvia.io](https://psorvia.io). Σελίδα επίδειξης: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Δικά σου χρώματα και δική σου πηγή ήχου
 

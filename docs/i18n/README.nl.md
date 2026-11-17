@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Audioreactieve rasteroceaan voor je website**
 
-### ▶ [Live demo met muziek](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Live demo met muziek](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Een rustig perspectiefraster als paginaachtergrond. Het reageert op alle audio en video op de pagina en vervaagt achter je tekst.
 
@@ -36,7 +36,7 @@ Een rustig perspectiefraster als paginaachtergrond. Het reageert op alle audio e
 
 Werkt in actuele Chrome, Edge en Firefox met WebGL. Zonder WebGL krijg je een rustige kleurovergang, bij verminderde beweging een stilstaand beeld.
 
-PSOrvia Klangozean draait als achtergrond van [psorvia.io](https://psorvia.io). Demopagina: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean draait als achtergrond van [psorvia.io](https://psorvia.io). Demopagina: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Eigen kleuren en eigen audiobron
 

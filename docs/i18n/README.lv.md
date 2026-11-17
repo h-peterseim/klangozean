@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Skaņai reaģējošs režģa okeāns tavai vietnei**
 
-### ▶ [Tiešraides demo ar mūziku](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Tiešraides demo ar mūziku](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Mierīgs perspektīvas režģis kā lapas fons. Tas reaģē uz jebkuru lapas skaņu un video un aiz tava teksta izdziest.
 
@@ -36,7 +36,7 @@ Mierīgs perspektīvas režģis kā lapas fons. Tas reaģē uz jebkuru lapas ska
 
 Darbojas pašreizējos Chrome, Edge un Firefox ar WebGL. Bez WebGL iegūsi mierīgu pāreju, ar samazinātu kustību nekustīgu attēlu.
 
-PSOrvia Klangozean darbojas kā vietnes [psorvia.io](https://psorvia.io) fons. Demonstrācijas lapa: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean darbojas kā vietnes [psorvia.io](https://psorvia.io) fons. Demonstrācijas lapa: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Savas krāsas un savs skaņas avots
 

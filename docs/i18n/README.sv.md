@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Ljudreaktivt rutnätshav för din webbplats**
 
-### ▶ [Livedemo med musik](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Livedemo med musik](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Ett lugnt perspektivrutnät som sidbakgrund. Det reagerar på allt ljud och all video på sidan och tonas ner bakom din text.
 
@@ -36,7 +36,7 @@ Ett lugnt perspektivrutnät som sidbakgrund. Det reagerar på allt ljud och all 
 
 Fungerar i aktuella Chrome, Edge och Firefox med WebGL. Utan WebGL får du en lugn toning, vid reducerad rörelse en stillbild.
 
-PSOrvia Klangozean fungerar som bakgrund för [psorvia.io](https://psorvia.io). Demosida: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean fungerar som bakgrund för [psorvia.io](https://psorvia.io). Demosida: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Egna färger och egen ljudkälla
 

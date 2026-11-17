@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Ocean de grilă reactiv la sunet pentru site-ul tău**
 
-### ▶ [Demo live cu muzică](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Demo live cu muzică](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 O grilă calmă în perspectivă ca fundal de pagină. Reacționează la orice sunet și video din pagină și se estompează în spatele textului tău.
 
@@ -36,7 +36,7 @@ O grilă calmă în perspectivă ca fundal de pagină. Reacționează la orice s
 
 Funcționează în versiunile actuale de Chrome, Edge și Firefox cu WebGL. Fără WebGL primești un degrade calm; cu mișcare redusă, o imagine statică.
 
-PSOrvia Klangozean funcționează ca fundal pentru [psorvia.io](https://psorvia.io). Pagina demo: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean funcționează ca fundal pentru [psorvia.io](https://psorvia.io). Pagina demo: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Culori proprii și sursă audio proprie
 

@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Océano de rejilla reactivo al audio para tu web**
 
-### ▶ [Demo en vivo con música](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Demo en vivo con música](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Una rejilla en perspectiva tranquila como fondo de página. Reacciona a cualquier audio o vídeo de la página y se atenúa detrás de tu texto.
 
@@ -36,7 +36,7 @@ Una rejilla en perspectiva tranquila como fondo de página. Reacciona a cualquie
 
 Funciona en las versiones actuales de Chrome, Edge y Firefox con WebGL. Sin WebGL verás un degradado suave; con movimiento reducido, una imagen fija.
 
-PSOrvia Klangozean funciona como fondo de [psorvia.io](https://psorvia.io). Página de demostración: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean funciona como fondo de [psorvia.io](https://psorvia.io). Página de demostración: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Colores propios y fuente de audio propia
 

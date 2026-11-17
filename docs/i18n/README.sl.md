@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Mrežni ocean, ki se odziva na zvok, za tvojo spletno stran**
 
-### ▶ [Predstavitev v živo z glasbo](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Predstavitev v živo z glasbo](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Mirna perspektivna mreža kot ozadje strani. Odziva se na vsak zvok in video na strani, za tvojim besedilom pa se zatemni.
 
@@ -36,7 +36,7 @@ Mirna perspektivna mreža kot ozadje strani. Odziva se na vsak zvok in video na 
 
 Deluje v trenutnih brskalnikih Chrome, Edge in Firefox z WebGL. Brez WebGL dobiš miren prehod, pri zmanjšanem gibanju mirujočo sliko.
 
-PSOrvia Klangozean deluje kot ozadje strani [psorvia.io](https://psorvia.io). Predstavitvena stran: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean deluje kot ozadje strani [psorvia.io](https://psorvia.io). Predstavitvena stran: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Lastne barve in lasten vir zvoka
 

@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Reagujący na dźwięk siatkowy ocean dla Twojej strony**
 
-### ▶ [Demo na żywo z muzyką](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Demo na żywo z muzyką](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Spokojna siatka w perspektywie jako tło strony. Reaguje na każdy dźwięk i wideo na stronie, a za Twoim tekstem przygasa.
 
@@ -36,7 +36,7 @@ Spokojna siatka w perspektywie jako tło strony. Reaguje na każdy dźwięk i wi
 
 Działa w aktualnych przeglądarkach Chrome, Edge i Firefox z WebGL. Bez WebGL dostajesz spokojny gradient, przy ograniczonym ruchu obraz statyczny.
 
-PSOrvia Klangozean działa jako tło strony [psorvia.io](https://psorvia.io). Strona demonstracyjna: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean działa jako tło strony [psorvia.io](https://psorvia.io). Strona demonstracyjna: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Własne kolory i własne źródło dźwięku
 

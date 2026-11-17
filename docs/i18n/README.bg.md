@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Аудиореактивен мрежест океан за твоя сайт**
 
-### ▶ [Демо на живо с музика](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Демо на живо с музика](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Спокойна перспективна мрежа като фон на страницата. Тя реагира на всяко аудио и видео на страницата и избледнява зад текста ти.
 
@@ -36,7 +36,7 @@
 
 Работи в актуални Chrome, Edge и Firefox с WebGL. Без WebGL получаваш спокоен градиент, при намалено движение - неподвижна картина.
 
-PSOrvia Klangozean работи като фон на [psorvia.io](https://psorvia.io). Демо страница: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean работи като фон на [psorvia.io](https://psorvia.io). Демо страница: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Собствени цветове и собствен аудиоизточник
 

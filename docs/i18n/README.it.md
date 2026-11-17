@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Oceano a griglia reattivo all'audio per il tuo sito**
 
-### ▶ [Demo dal vivo con musica](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Demo dal vivo con musica](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Una calma griglia in prospettiva come sfondo della pagina. Reagisce a ogni audio e video della pagina e si attenua dietro il tuo testo.
 
@@ -36,7 +36,7 @@ Una calma griglia in prospettiva come sfondo della pagina. Reagisce a ogni audio
 
 Funziona nelle versioni attuali di Chrome, Edge e Firefox con WebGL. Senza WebGL ottieni una sfumatura tranquilla; con movimento ridotto, un'immagine fissa.
 
-PSOrvia Klangozean fa da sfondo a [psorvia.io](https://psorvia.io). Pagina demo: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean fa da sfondo a [psorvia.io](https://psorvia.io). Pagina demo: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Colori propri e sorgente audio propria
 

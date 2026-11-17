@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Océan de grille réactif à l'audio pour ton site**
 
-### ▶ [Démo en direct avec musique](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Démo en direct avec musique](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Une grille en perspective apaisante en arrière-plan de la page. Elle réagit à tout audio ou vidéo de la page et s'estompe derrière ton texte.
 
@@ -36,7 +36,7 @@ Une grille en perspective apaisante en arrière-plan de la page. Elle réagit à
 
 Fonctionne dans les versions actuelles de Chrome, Edge et Firefox avec WebGL. Sans WebGL, tu obtiens un dégradé calme ; avec mouvement réduit, une image fixe.
 
-PSOrvia Klangozean sert d'arrière-plan à [psorvia.io](https://psorvia.io). Page de démonstration: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean sert d'arrière-plan à [psorvia.io](https://psorvia.io). Page de démonstration: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Couleurs et source audio personnalisées
 

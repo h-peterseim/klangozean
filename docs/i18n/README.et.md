@@ -1,10 +1,10 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 **Heliga reageeriv ruudustikuookean sinu veebilehele**
 
-### ▶ [Otsedemo muusikaga](https://h-peterseim.github.io/klangozean/demo.html)
+### ▶ [Otsedemo muusikaga](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Rahulik perspektiivruudustik lehe taustaks. See reageerib iga lehel oleva heli ja video peale ning hajub sinu teksti taga.
 
@@ -36,7 +36,7 @@ Rahulik perspektiivruudustik lehe taustaks. See reageerib iga lehel oleva heli j
 
 Töötab praegustes Chrome'is, Edge'is ja Firefoxis koos WebGL-iga. Ilma WebGL-ita saad rahuliku üleminekuvärvi, vähendatud liikumisega staatilise pildi.
 
-PSOrvia Klangozean töötab veebilehe [psorvia.io](https://psorvia.io) taustana. Demoleht: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean töötab veebilehe [psorvia.io](https://psorvia.io) taustana. Demoleht: **[h-peterseim.github.io/psorvia-klangozean/demo.html](https://h-peterseim.github.io/psorvia-klangozean/demo.html)**
 
 ## Oma värvid ja oma heliallikas
 
