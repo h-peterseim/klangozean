@@ -1,6 +1,6 @@
-# Klangozean
+# PSOrvia Klangozean
 
-[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Mrežasti ocean koji reagira na zvuk za tvoju web stranicu**
 
@@ -36,7 +36,7 @@ Mirna perspektivna mreža kao pozadina stranice. Reagira na svaki zvuk i video n
 
 Radi u aktualnim preglednicima Chrome, Edge i Firefox s WebGL-om. Bez WebGL-a dobivaš miran prijelaz boja, uz smanjeno kretanje statičnu sliku.
 
-Klangozean radi kao pozadina stranice [psorvia.io](https://psorvia.io). Demo stranica: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean radi kao pozadina stranice [psorvia.io](https://psorvia.io). Demo stranica: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Vlastite boje i vlastiti izvor zvuka
 

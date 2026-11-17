@@ -1,6 +1,6 @@
-# Klangozean
+# PSOrvia Klangozean
 
-[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Garsui jautrus tinklelio vandenynas tavo svetainei**
 
@@ -36,7 +36,7 @@ Rami perspektyvinė tinklelio gija puslapio fonui. Ji reaguoja į bet kokį pusl
 
 Veikia dabartinėse Chrome, Edge ir Firefox su WebGL. Be WebGL gauni ramų gradientą, esant sumažintam judėjimui nejudantį vaizdą.
 
-Klangozean veikia kaip svetainės [psorvia.io](https://psorvia.io) fonas. Demonstracinis puslapis: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean veikia kaip svetainės [psorvia.io](https://psorvia.io) fonas. Demonstracinis puslapis: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Savos spalvos ir savas garso šaltinis
 

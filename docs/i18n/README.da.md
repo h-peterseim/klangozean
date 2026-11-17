@@ -1,6 +1,6 @@
-# Klangozean
+# PSOrvia Klangozean
 
-[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Lydreaktivt gitterhav til din hjemmeside**
 
@@ -36,7 +36,7 @@ Et roligt perspektivgitter som sidebaggrund. Det reagerer på al lyd og video p�
 
 Virker i nuværende Chrome, Edge og Firefox med WebGL. Uden WebGL får du en rolig overgang, ved reduceret bevægelse et stillbillede.
 
-Klangozean kører som baggrund på [psorvia.io](https://psorvia.io). Demoside: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean kører som baggrund på [psorvia.io](https://psorvia.io). Demoside: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Egne farver og egen lydkilde
 

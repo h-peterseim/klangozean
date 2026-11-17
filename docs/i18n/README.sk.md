@@ -1,6 +1,6 @@
-# Klangozean
+# PSOrvia Klangozean
 
-[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Zvukovo reagujúci mriežkový oceán pre tvoj web**
 
@@ -36,7 +36,7 @@ Pokojná perspektívna mriežka ako pozadie stránky. Reaguje na každý zvuk a 
 
 Funguje v aktuálnych prehliadačoch Chrome, Edge a Firefox s WebGL. Bez WebGL dostaneš pokojný prechod, pri obmedzenom pohybe statický obraz.
 
-Klangozean beží ako pozadie webu [psorvia.io](https://psorvia.io). Ukážková stránka: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean beží ako pozadie webu [psorvia.io](https://psorvia.io). Ukážková stránka: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Vlastné farby a vlastný zdroj zvuku
 

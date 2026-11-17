@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Klangozean</title>
+<title>PSOrvia Klangozean</title>
 <style>
 :root{color-scheme:light dark;--bg:#f4f7f5;--fg:#12201a;--mut:#41564b;--ac:#0a6b38;--card:rgba(255,255,255,.72)}
 @media (prefers-color-scheme:dark){:root{--bg:#07100c;--fg:#e6f2ec;--mut:#9db5a9;--ac:#3ddc84;--card:rgba(7,16,12,.6)}}
@@ -27,7 +27,7 @@ a{color:var(--ac)}
 <body>
 <klang-ozean></klang-ozean>
 <main>
-<h1>Klangozean</h1>
+<h1>PSOrvia Klangozean</h1>
 <p id="tag" class="mut"></p>
 <p id="intro"></p>
 <div class="bar">
@@ -56,7 +56,7 @@ function ui(c){var t=T[c];document.documentElement.lang=c;sel.value=c;
  document.getElementById('cr').textContent=t.credit;mu.textContent=mon?t.mstop:t.mstart;}
 sel.addEventListener('change',function(){ui(sel.value);});
 ui(pick());
-// Music: a plain audio element, Klangozean picks it up by itself; never autoplays, one source at a time
+// Music: a plain audio element, PSOrvia Klangozean picks it up by itself; never autoplays, one source at a time
 mu.addEventListener('click',function(){if(mon){mus.pause();return;}mus.currentTime=0;mus.play().catch(function(){});});
 mus.addEventListener('play',function(){mon=true;ui(sel.value);});
 ['pause','ended'].forEach(function(e){mus.addEventListener(e,function(){mon=false;ui(sel.value);});});

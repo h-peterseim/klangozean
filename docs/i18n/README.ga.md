@@ -1,6 +1,6 @@
-# Klangozean
+# PSOrvia Klangozean
 
-[![Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Aigéan greille a fhreagraíonn don fhuaim do do shuíomh gréasáin**
 
@@ -36,7 +36,7 @@ Greille peirspictíochta chiúin mar chúlra leathanaigh. Freagraíonn sí d'aon
 
 Oibríonn sé i Chrome, Edge agus Firefox reatha le WebGL. Gan WebGL, gheobhaidh tú grádán ciúin; le gluaiseacht laghdaithe, íomhá statach.
 
-Feidhmíonn Klangozean mar chúlra de [psorvia.io](https://psorvia.io). Leathanach taispeána: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+Feidhmíonn PSOrvia Klangozean mar chúlra de [psorvia.io](https://psorvia.io). Leathanach taispeána: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Dathanna agus foinse fuaime féin
 

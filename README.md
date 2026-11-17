@@ -1,6 +1,6 @@
-# Klangozean
+# PSOrvia Klangozean
 
-[![Klangozean](docs/preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
+[![PSOrvia Klangozean](docs/preview.webp)](https://h-peterseim.github.io/klangozean/demo.html)
 
 **Audio-reactive grid ocean for your website**
 
@@ -42,7 +42,7 @@ Works in current Chrome, Edge and Firefox with WebGL. Without WebGL you get a ca
 - `el.simulate(true)` runs a built-in test signal without sound.
 - Media from another origin is left untouched (it would otherwise go silent); use `useAnalyser` for it.
 
-Klangozean runs as the background of [psorvia.io](https://psorvia.io). Demo page: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
+PSOrvia Klangozean runs as the background of [psorvia.io](https://psorvia.io). Demo page: **[h-peterseim.github.io/klangozean/demo.html](https://h-peterseim.github.io/klangozean/demo.html)**
 
 ## Own colors and own audio source
 
