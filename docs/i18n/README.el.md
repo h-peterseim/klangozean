@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Ωκεανός πλέγματος με αντίδραση στον ήχο για τον ιστότοπό σου**
 
 ### ▶ [Ζωντανή επίδειξη με μουσική](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

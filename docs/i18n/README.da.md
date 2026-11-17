@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Lydreaktivt gitterhav til din hjemmeside**
 
 ### ▶ [Live-demo med musik](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

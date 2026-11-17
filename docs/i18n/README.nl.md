@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Audioreactieve rasteroceaan voor je website**
 
 ### ▶ [Live demo met muziek](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

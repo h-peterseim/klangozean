@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Oċean tal-grilja li jirreaġixxi għall-awdjo għas-sit tiegħek**
 
 ### ▶ [Demo diretta bil-mużika](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

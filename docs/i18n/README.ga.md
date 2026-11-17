@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Aigéan greille a fhreagraíonn don fhuaim do do shuíomh gréasáin**
 
 ### ▶ [Taispeántas beo le ceol](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

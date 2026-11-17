@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Zvukovo reagujúci mriežkový oceán pre tvoj web**
 
 ### ▶ [Živá ukážka s hudbou](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

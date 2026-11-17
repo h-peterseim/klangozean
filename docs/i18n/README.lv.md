@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Skaņai reaģējošs režģa okeāns tavai vietnei**
 
 ### ▶ [Tiešraides demo ar mūziku](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

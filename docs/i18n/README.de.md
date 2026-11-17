@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Audioreaktiver Gitter-Ozean für deine Website**
 
 ### ▶ [Live-Demo mit Musik](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

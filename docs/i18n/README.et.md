@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Heliga reageeriv ruudustikuookean sinu veebilehele**
 
 ### ▶ [Otsedemo muusikaga](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

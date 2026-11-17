@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Ljudreaktivt rutnätshav för din webbplats**
 
 ### ▶ [Livedemo med musik](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

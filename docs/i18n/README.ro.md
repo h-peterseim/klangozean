@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Ocean de grilă reactiv la sunet pentru site-ul tău**
 
 ### ▶ [Demo live cu muzică](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

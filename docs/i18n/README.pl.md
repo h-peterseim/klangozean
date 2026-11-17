@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Reagujący na dźwięk siatkowy ocean dla Twojej strony**
 
 ### ▶ [Demo na żywo z muzyką](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

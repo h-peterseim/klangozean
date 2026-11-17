@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Äänelle reagoiva ruudukkomeri verkkosivullesi**
 
 ### ▶ [Live-demo musiikin kanssa](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Garsui jautrus tinklelio vandenynas tavo svetainei**
 
 ### ▶ [Tiesioginė demonstracija su muzika](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

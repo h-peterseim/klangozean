@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Océan de grille réactif à l'audio pour ton site**
 
 ### ▶ [Démo en direct avec musique](https://h-peterseim.github.io/psorvia-klangozean/demo.html)

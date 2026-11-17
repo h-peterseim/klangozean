@@ -1,7 +1,5 @@
 # PSOrvia Klangozean
 
-[![PSOrvia Klangozean](../preview.webp)](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
-
 **Mrežni ocean, ki se odziva na zvok, za tvojo spletno stran**
 
 ### ▶ [Predstavitev v živo z glasbo](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
