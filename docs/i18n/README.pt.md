@@ -2,6 +2,8 @@
 
 **Oceano de grelha reativo ao áudio para o teu site**
 
+PSOrvia · [psorvia.io](https://psorvia.io)
+
 ### ▶ [Demonstração ao vivo com música](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 Uma grelha em perspetiva tranquila como fundo da página. Reage a qualquer áudio ou vídeo da página e esbate-se atrás do teu texto.

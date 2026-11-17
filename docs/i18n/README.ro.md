@@ -2,6 +2,8 @@
 
 **Ocean de grilă reactiv la sunet pentru site-ul tău**
 
+PSOrvia · [psorvia.io](https://psorvia.io)
+
 ### ▶ [Demo live cu muzică](https://h-peterseim.github.io/psorvia-klangozean/demo.html)
 
 O grilă calmă în perspectivă ca fundal de pagină. Reacționează la orice sunet și video din pagină și se estompează în spatele textului tău.
