@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.3 (proposed)
+## 1.0.3
 - Two more languages: Norwegian Bokmål (`nb`) and Turkish (`tr`), in the README translations and the demo page (now 26 languages).
 
 ## 1.0.2
